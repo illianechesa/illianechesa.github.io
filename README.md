@@ -1,3 +1,3 @@
-# Illia Nechesa Portfolio
+# Illia Nechesa Dernovyi
 
-## [Illia Web Page](https://illianechesa.me/)
+## [Portfolio](https://illianechesa.me/)
